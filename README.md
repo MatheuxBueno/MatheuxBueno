@@ -1,6 +1,7 @@
  ## Olá! Eu sou o Matheus Henrique
 
 - 🔭 Desejaria trabalhar com Full Stack
+- 💀 Estou cursando Engenharia de Software (2 periodo)
 - 🌱 Estou aprendendo JavaScript
 - 😄 Ele/Dele
 
@@ -8,6 +9,8 @@
   <a href="https://github.com/MatheuxBueno">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MatheuxBueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuxBueno&layout=compact&langs_count=7&theme=dark"/>
+  <img align="right" alt="matheus-gif" height="200" width="40" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/977563490665512982/1024220393751445514/Design_sem_nome.gif">
+
 </div>
 
 <div style="display: inline_block"><br>
@@ -15,8 +18,7 @@
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="matheus-gif" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/977563490665512982/1023970962586222592/matheus.png">
-
+  
 </div>
 
 ##
@@ -27,8 +29,6 @@
   <a href = "mailto:matheushenriquebm08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https:" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/darkilsoridaa"  target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  
-  
   ![Snake animation](https://github.com/MatheuxBueno/MatheuxBueno/blob/output/github-contribution-grid-snake.svg)
  
 </div>
