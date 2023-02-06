@@ -2,7 +2,7 @@
 
 - 🔭 Desejaria trabalhar com Full Stack
 - 💀 Estou cursando Engenharia de Software (2 periodo)
-- 🌱 Estou aprendendo JavaScript
+- 👨‍💻  Estou aprendendo JavaScript
 - 😄 Ele/Dele
 
 <div align="center">
