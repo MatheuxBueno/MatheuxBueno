@@ -1,9 +1,9 @@
  ## Olá! Eu sou o Matheus Henrique
 
 - 🔭 Desejaria trabalhar com Full Stack
-- 💀 Estou cursando Engenharia de Software (2 periodo)
-- 👨‍💻  Estou aprendendo JavaScript
-- 😄 Ele/Dele
+- 💀 Estou cursando Engenharia de Software (4 periodo)
+- 👨‍💻  Estou aprendendo Angular
+
 
 <div align="center">
   <a href="https://github.com/MatheuxBueno">
