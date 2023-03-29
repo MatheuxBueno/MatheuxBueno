@@ -9,7 +9,7 @@
   <a href="https://github.com/MatheuxBueno">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MatheuxBueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuxBueno&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="matheus-gif" height="200" width="40" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/977563490665512982/1024220393751445514/Design_sem_nome.gif">
+ 
 
 </div>
 
